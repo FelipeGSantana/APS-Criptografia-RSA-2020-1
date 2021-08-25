@@ -2,11 +2,11 @@
  Atividade Prática Supervisionada realizada no 2º Semestre do curso de Ciência da Computação (2/2020) - UNIP Jundiaí
  
  Autores: 
-    Arthur Franco Mendonça Crepaldi;
-    Felipe Gabriel de Santana;
-    Fernando Arantes de Moura; 	
-    Guilherme Simões Ribeiro; 	
-    Rafael Emidio da Silva.	  	
+-Arthur Franco Mendonça Crepaldi;
+-Felipe Gabriel de Santana;
+-Fernando Arantes de Moura; 	
+-Guilherme Simões Ribeiro; 	
+-Rafael Emidio da Silva.	  	
 
 Instruções:
 
