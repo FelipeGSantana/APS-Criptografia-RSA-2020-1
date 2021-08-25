@@ -22,5 +22,5 @@ Em caso de erro:
 
 - Verifique se as chaves estão inseridas corretamente.
 - Verifique se a mensagem cifrada está inserida corretamente.
-- verifique se a mensagem foi cifrada com uma chave publica correspondente a mensagem e a chave privada que est� sendo utilizada.
+- verifique se a mensagem foi cifrada com uma chave publica correspondente a mensagem e a chave privada que está sendo utilizada.
 - Verifique se as chaves e mensagens foram codificadas por este programa.
